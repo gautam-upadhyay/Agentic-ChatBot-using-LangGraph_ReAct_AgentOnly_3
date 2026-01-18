@@ -45,6 +45,7 @@ The database tools are defined in `chatbot.py`:
 - "Which director has the most movies?"
 - "Highest grossing movie in the dataset"
 
+## [Note: ReAct + Langgraph using agent is faster as compared to LLM wla chatbot]
 DEMO:
 
 ![ALT](https://github.com/gautam-upadhyay/Agentic-ChatBot-using-LangGraph_ReAct_AgentOnly_3/blob/main/image.png?raw=true)
